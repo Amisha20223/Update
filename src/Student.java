@@ -1,8 +1,8 @@
 
 class Student {
-    public int studentId;
-    public String name;
-    public int[] marks = new int[3];
+     int studentId;
+     String name;
+     int[] marks = new int[3];
 
     public Student(int studentId, String name, int m1, int m2, int m3) {
         this.studentId = studentId;
